@@ -40,18 +40,53 @@
     ],
     "nonkopi": [
         {
-            "foto": "https://theforkedspoon.com/wp-content/uploads/2018/06/Thai-Iced-Tea-2-700x1050.jpg",
+            "foto": "https://theforkedspoon.com/wp-content/uploads/2018/06/Thai-Iced-Tea-4-700x1050.jpg",
             "nama": "Thai Tea",
-            "size": "100 Gram",
-            "harga": "500.000",
+            "size": "150 ml",
+            "harga": "20.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
             "foto": "https://1.bp.blogspot.com/-AS7NyELrCa8/USXYgLsMroI/AAAAAAAAAxg/PPPnZj1dLKA/s1600/1.jpg",
             "nama": "Ice Cream",
-            "size": "150 Gram",
-            "harga": "150.000",
+            "size": "150 ml",
+            "harga": "25.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "http://del.h-cdn.co/assets/15/49/1448988156-delish-holiday-milkshakes-sugar-cookie.jpg",
+            "nama": "Milk Shake",
+            "size": "200 ml",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://cdn-brilio-net.akamaized.net/news/2020/05/01/183684/1219768-resep-minuman-segar-untuk-buka-puasa.jpg",
+            "nama": "Sop Buah",
+            "size": "150 ml",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }, 
+        {
+            "foto": "https://wedangkopiprambanan.com/wp-content/uploads/2018/05/minuman-segar-untuk-berbuka-puasa-foto-@wedangkopiprambanan-e1526967361771.jpg",
+            "nama": "Lemon Ice",
+            "size": "150 ml",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://www.unileverfoodsolutions.com.vn/dam/global-ufs/mcos/phvn/vietnam/calcmenu/recipes/VN-recipes/other/sweet-lychee-tea/main-header.jpg",
+            "nama": "Lechy Tea",
+            "size": "150 ml",
+            "harga": "18.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://assets.klikindomaret.com/share/20069208/20069208_1.jpg",
+            "nama": "Air Mineral",
+            "size": "150 ml",
+            "harga": "7.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         }
     ]
 }
